@@ -1760,6 +1760,8 @@ main {
 .widget-about img {
 	float: none;
 	padding-top: 20px;
+	max-width: 70%;
+	padding-bottom: 15px;
 }
 .widget-about h3 {
 	color: #000000;
