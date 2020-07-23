@@ -139,7 +139,7 @@ hr {
 
 /* ================ CROSS BROWSER COMPATABILITY =============== */
 img{
-	max-width: 100%;
+	max-width: 125%;
 }
 .ask-question,
 nav,
@@ -281,7 +281,7 @@ header {
 	float: left;
 	width: 40px;
 	margin-right: 14px;
-	margin-top: 10px;
+	margin-top: 14px;
 }
 .logo.pd-btm {
 	padding-bottom: 10px;
